@@ -1,0 +1,55 @@
+{
+    "course":[
+        {
+          "id": 1,
+          "title": "Beginner Guitar Lessons",
+          "slug": "beginner-guitar-lessons",
+          "description": "Learn the basics of playing the guitar with this comprehensive beginner course. Perfect for those with no prior experience.",
+          "price": 99.99,
+          "instructor": "John Doe",
+          "isFeatured": true,
+          "image": "beginner_guitar_lessons.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Advanced Piano Techniques",
+          "slug": "advanced-piano-techniques",
+          "description": "Take your piano skills to the next level with advanced techniques and exercises designed for experienced players.",
+          "price": 149.99,
+          "instructor": "Jane Smith",
+          "isFeatured": false,
+          "image": "advanced_piano_techniques.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Jazz Improvisation Masterclass",
+          "slug": "jazz-improvisation-masterclass",
+          "description": "Master the art of jazz improvisation with this in-depth course, featuring lessons from top jazz musicians.",
+          "price": 199.99,
+          "instructor": "Miles Davis",
+          "isFeatured": true,
+          "image": "jazz_improvisation_masterclass.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Music Production for Beginners",
+          "slug": "music-production-for-beginners",
+          "description": "Learn the fundamentals of music production, including mixing, mastering, and using digital audio workstations.",
+          "price": 129.99,
+          "instructor": "Rick Rubin",
+          "isFeatured": false,
+          "image": "music_production_for_beginners.jpg"
+        },
+        {
+          "id": 5,
+          "title": "Classical Violin Techniques",
+          "slug": "classical-violin-techniques",
+          "description": "Explore classical violin techniques and improve your playing with lessons from renowned violinists.",
+          "price": 119.99,
+          "instructor": "Itzhak Perlman",
+          "isFeatured": true,
+          "image": "classical_violin_techniques.jpg"
+        }
+      ]
+      
+}
